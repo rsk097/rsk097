@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![Website Badge](https://img.shields.io/badge/-rsk097.in-eb4634?style=flat-square&logo=webisite&logoColor=white&link=https://www.rsk097.in/)](https://www.rsk097.in/) &nbsp;&nbsp;
 
   
-  # Github Activity📊:!
+  # Github Activity📊:
 
 <table align='center'>
   <tr>
