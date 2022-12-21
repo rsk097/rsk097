@@ -1,5 +1,5 @@
 <h2 align="center"> <img height="45" width="45" src="https://user-images.githubusercontent.com/84225692/121017728-39f37380-c7bb-11eb-91ca-43fdb725c42b.gif"<br> Hello Peoples! </h2>
-<img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/>
+<!-- <img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/> -->
 
 * Hi there, This is Raghvendra Singh, a final Year UnderGraduate Pursuing Bachelor's of technology from JKIAPT
 * Strong in design and development with intuitive problem solving skills.
