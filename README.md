@@ -2,9 +2,10 @@
 <!-- <img height="280" width="330" src="https://user-images.githubusercontent.com/84225692/121028374-6613f200-c7c5-11eb-9ae9-fd8bd02ca2ba.gif" align="right"/> -->
 
 * Hi there, This is Raghvendra Singh, a final Year UnderGraduate Pursuing Bachelor's of technology from JKIAPT
-* Strong in design and development with intuitive problem solving skills.
+* Stronge in design and development with intuitive problem solving skills.
 * Passionate about implementing and launching new projects. 
 * Proficient in C, C++, OOPS, DSA, and SQL.
+* Proficient in HTML ,CSS , JavaScript.
 * Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 
 <h2 > Connect with me </h2>
